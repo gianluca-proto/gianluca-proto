@@ -35,6 +35,22 @@ I'm currently focusing on **ethical hacking**, **machine learning**, and modern 
 
 ---
 
+## 🏢 Professional Experience
+
+During the last 10 years I have worked as a software consultant for major enterprise clients such as:
+
+- **Allianz**
+- **Athora Assicurazioni**
+- **Unicredit** (via Reply)
+- **BPER Banca** (via Gamma Group)
+- **Sky Italia**
+
+I worked on large-scale systems, enterprise platforms, banking/insurance software, integrations, APIs, document workflows, and mission-critical backend services.
+
+This experience helped me build strong problem-solving skills, reliability, code quality, and the ability to work under high complexity environments.
+
+---
+
 ## 🧩 Featured Projects
 
 # 🧩 Featured Projects
