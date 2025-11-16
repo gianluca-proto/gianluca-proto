@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gianluca Proto  
 **Full-Stack Developer | Java · PHP · Python · AWS · Machine Learning · Ethical Hacking**
 
-I'm a full-stack developer with 8+ years of experience building server-side applications, cloud systems, backend services and integrations for complex enterprise environments.
+I'm a full-stack developer with 10+ years of experience building server-side applications, cloud systems, backend services and integrations for complex enterprise environments.
 
 I'm currently focusing on **ethical hacking**, **machine learning**, and modern cloud-based architectures.
 
