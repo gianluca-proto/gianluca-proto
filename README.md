@@ -53,8 +53,6 @@ This experience helped me build strong problem-solving skills, reliability, code
 
 ## 🧩 Featured Projects
 
-# 🧩 Featured Projects
-
 ## 🖼 **Selenike-Art (Flask + Bootstrap)**  
 A responsive portfolio website for an artist, built with Flask and HTML/Bootstrap.  
 Includes:
